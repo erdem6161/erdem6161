@@ -32,6 +32,12 @@
 
 </div>
 
+###
+<p align="left">Visitors</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/furkanevin/count.svg?"  />
+</div>
+
 <!--
 **erdem6161/erdem6161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
